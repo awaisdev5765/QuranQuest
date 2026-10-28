@@ -81,4 +81,3 @@ Released under the [MIT License](LICENSE).
 ## 🙏 Credits
 
 - Quran text & audio: [AlQuran Cloud API](https://alquran.cloud/api)
-- Original concept inspired by *Fun Quran Game* by [Muhammad Rezky Sulihin](https://www.linkedin.com/in/mrezkys/)
